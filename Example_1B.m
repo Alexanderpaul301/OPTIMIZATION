@@ -1,7 +1,7 @@
 clear all
 
 % Same example as before but this time we had an upper and lower bound on
-% one of the generators.
+% one o 
 f = [10;18;20]; % Cost Vector
 
 A= [1 0 0;

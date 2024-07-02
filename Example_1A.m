@@ -1,7 +1,7 @@
 clear all
 
 % In this case we have 3 Generators that are called G1,G2,G3 that all have
-% their own productions, own prices and own generation limits.
+% their own productions, own prices and own generation limits
 f = [10;18;20]; % Cost Vector
 
 A= []; % LHS inequalities 
